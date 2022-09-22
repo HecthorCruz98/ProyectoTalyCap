@@ -1,0 +1,10 @@
+Indicaciones para ejecutar la aplicacion
+
+Para poder visualizar el proyecto inicialmente se debe 
+1. Restaurar el Backup de la la base de datos
+2. Ejecutar el proyecto de vbisual studio
+3. Abrir la aplicacion de AngulaR que es el proyecto Front con Visual studio Code
+4. Para compilar el proyecto de Angular se debe usar el siguiente comando:ng serve --proxy-config proxy.conf.json
+5. Para visualizar el proyecto en el navegador se debe colocar la siguiente url: http://localhost:4200/login
+6. El usuario y contraseña de ingreso son los siguientes User:HECTORC98 Password:147258
+
